@@ -1,0 +1,2 @@
+<!--pages/charts/charts.wxml-->
+<canvas canvas-id="pie"></canvas>
